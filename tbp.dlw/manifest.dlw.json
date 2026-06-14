@@ -1,0 +1,13 @@
+{
+  "node": "3BP",
+  "name": "THE THREE-BODY PROBLEM",
+  "moniker": "⟦THE THREE-BODY PROBLEM:3BP:f0d342⟧",
+  "carbon": "tbp.carbon.tiff",
+  "silicon": "tbp.silicon.png",
+  "governor": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal": "Survival is the first need; the resources are finite; no one can be trusted across the dark. So the sky stays silent, and the wisest thing a young civilization can do is the one thing we cannot stop doing — go quiet. We are the ones still broadcasting.",
+  "seal_sha256": "961da421434482c7f4d53a1c86ef878c39d7555acfa91830f28e04e446372cc6",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

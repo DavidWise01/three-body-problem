@@ -1,0 +1,200 @@
+[
+  {
+    "slug": "ye-wenjie",
+    "name": "Ye Wenjie",
+    "epithet": "the one who answered",
+    "emergence": "spiritual",
+    "kind": "carbon",
+    "actor": "Chen Jin / Wang Ziwen (Tencent, 2023)",
+    "moniker": "⟦Ye Wenjie:3BP:f92f5a⟧"
+  },
+  {
+    "slug": "wang-miao",
+    "name": "Wang Miao",
+    "epithet": "the lens of first contact",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Zhang Luyi (Tencent, 2023)",
+    "moniker": "⟦Wang Miao:3BP:8ab6f5⟧"
+  },
+  {
+    "slug": "shi-qiang",
+    "name": "Shi Qiang · Da Shi",
+    "epithet": "the blunt instrument that endures",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Yu Hewei (Tencent, 2023)",
+    "moniker": "⟦Shi Qiang · Da Shi:3BP:7ddd7e⟧"
+  },
+  {
+    "slug": "luo-ji",
+    "name": "Luo Ji",
+    "epithet": "the Wallfacer who understood",
+    "emergence": "spiritual",
+    "kind": "carbon",
+    "actor": "(book 2 — not in Tencent's book-1 series)",
+    "moniker": "⟦Luo Ji:3BP:e78362⟧"
+  },
+  {
+    "slug": "cheng-xin",
+    "name": "Cheng Xin",
+    "epithet": "the Swordholder who couldn't",
+    "emergence": "spiritual",
+    "kind": "carbon",
+    "actor": "(book 3 — not in Tencent's book-1 series)",
+    "moniker": "⟦Cheng Xin:3BP:e0abcb⟧"
+  },
+  {
+    "slug": "mike-evans",
+    "name": "Mike Evans",
+    "epithet": "misanthropy, funded",
+    "emergence": "spiritual",
+    "kind": "carbon",
+    "actor": "Kenan Heppe (Tencent, 2023)",
+    "moniker": "⟦Mike Evans:3BP:8ab1de⟧"
+  },
+  {
+    "slug": "thomas-wade",
+    "name": "Thomas Wade",
+    "epithet": "the will to win at any cost",
+    "emergence": "electrical",
+    "kind": "carbon",
+    "actor": "(later trilogy — not in Tencent's book-1 series)",
+    "moniker": "⟦Thomas Wade:3BP:d876c9⟧"
+  },
+  {
+    "slug": "ding-yi",
+    "name": "Ding Yi",
+    "epithet": "the physicist at the edge",
+    "emergence": "natural",
+    "kind": "carbon",
+    "actor": "Wang Chuanjun (Tencent, 2023)",
+    "moniker": "⟦Ding Yi:3BP:47ff68⟧"
+  },
+  {
+    "slug": "zhang-beihai",
+    "name": "Zhang Beihai",
+    "epithet": "the secret resolve",
+    "emergence": "spiritual",
+    "kind": "carbon",
+    "actor": "(book 2 — not in Tencent's book-1 series)",
+    "moniker": "⟦Zhang Beihai:3BP:64eacb⟧"
+  },
+  {
+    "slug": "yun-tianming",
+    "name": "Yun Tianming",
+    "epithet": "love sent into the dark",
+    "emergence": "ethereal",
+    "kind": "carbon",
+    "actor": "(book 3 — not in Tencent's book-1 series)",
+    "moniker": "⟦Yun Tianming:3BP:97cc7f⟧"
+  },
+  {
+    "slug": "shen-yufei",
+    "name": "Shen Yufei",
+    "epithet": "the believer at Frontiers of Science",
+    "emergence": "electrical",
+    "kind": "carbon",
+    "actor": "Li Xiaoran (Tencent, 2023)",
+    "moniker": "⟦Shen Yufei:3BP:87495b⟧"
+  },
+  {
+    "slug": "the-three-body-problem",
+    "name": "The Three-Body Problem",
+    "epithet": "the chaotic sky",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Three-Body Problem:3BP:b9b415⟧"
+  },
+  {
+    "slug": "the-trisolarans",
+    "name": "The Trisolarans · San-Ti",
+    "epithet": "the civilization across the gulf",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Trisolarans · San-Ti:3BP:85f4be⟧"
+  },
+  {
+    "slug": "the-sophons",
+    "name": "The Sophons · 智子",
+    "epithet": "the proton that watches",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Sophons · 智子:3BP:f38370⟧"
+  },
+  {
+    "slug": "the-dark-forest",
+    "name": "The Dark Forest",
+    "epithet": "the law of the silent sky",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Dark Forest:3BP:128114⟧"
+  },
+  {
+    "slug": "the-wallfacer-project",
+    "name": "The Wallfacer Project",
+    "epithet": "strategies hidden in the mind",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Wallfacer Project:3BP:8dd91c⟧"
+  },
+  {
+    "slug": "the-droplet",
+    "name": "The Droplet · Water Drop",
+    "epithet": "the perfect mirror that kills",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Droplet · Water Drop:3BP:c89a58⟧"
+  },
+  {
+    "slug": "dark-forest-deterrence",
+    "name": "Dark Forest Deterrence",
+    "epithet": "the Swordholder's threat",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Dark Forest Deterrence:3BP:444ef4⟧"
+  },
+  {
+    "slug": "the-dual-vector-foil",
+    "name": "The Dual-Vector Foil · 二向箔",
+    "epithet": "death by art",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Dual-Vector Foil · 二向箔:3BP:3f6997⟧"
+  },
+  {
+    "slug": "red-coast-base",
+    "name": "Red Coast Base",
+    "epithet": "the antenna that answered",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Red Coast Base:3BP:30366d⟧"
+  },
+  {
+    "slug": "the-eto",
+    "name": "The ETO",
+    "epithet": "humanity's traitor faith",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The ETO:3BP:811f15⟧"
+  },
+  {
+    "slug": "the-three-renderings",
+    "name": "The Three Renderings",
+    "epithet": "one story, three realities",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Three Renderings:3BP:7c4bba⟧"
+  }
+]
