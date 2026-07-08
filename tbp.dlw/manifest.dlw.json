@@ -9,5 +9,12 @@
   "seal": "Survival is the first need; the resources are finite; no one can be trusted across the dark. So the sky stays silent, and the wisest thing a young civilization can do is the one thing we cannot stop doing — go quiet. We are the ones still broadcasting.",
   "seal_sha256": "961da421434482c7f4d53a1c86ef878c39d7555acfa91830f28e04e446372cc6",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 694,
+    "prev": "b7b670415a9d408660a95cc53f1b90baafe52b7ecc30889fabca8303479bbabe",
+    "link": "e9e9fc811006adbaa55e3c4da0e44e94406df7c79034dd0076219dc7cdaa2b8c",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
