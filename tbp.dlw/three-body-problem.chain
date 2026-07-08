@@ -4,6 +4,6 @@ slug  : three-body-problem
 seal  : 961da421434482c7f4d53a1c86ef878c39d7555acfa91830f28e04e446372cc6
 prev  : b7b670415a9d408660a95cc53f1b90baafe52b7ecc30889fabca8303479bbabe
 link  : e9e9fc811006adbaa55e3c4da0e44e94406df7c79034dd0076219dc7cdaa2b8c
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
